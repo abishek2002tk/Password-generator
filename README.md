@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Password Generator
-
-A simple and secure Password Generator web app built using HTML, CSS, and JavaScript. This tool allows users to generate strong, random passwords based on selected criteria such as length, character types (uppercase, lowercase, numbers, symbols), and more.
-=======
-
->>>>>>> 7d33439f4affa4ae441479737fbae9d1def00721
+This is a simple web app made with HTML, CSS, and JavaScript that helps you create strong and random passwords. You can choose how long the password should be and whether to include uppercase letters, lowercase letters, numbers, and symbols.fa4ae441479737fbae9d1def00721
